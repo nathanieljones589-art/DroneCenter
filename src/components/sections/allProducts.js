@@ -1,0 +1,60 @@
+export const allProducts = [
+    {
+        id: 1,
+        name: "men jeans",
+        price: 550.00,
+        imageUrl: "https://i.pinimg.com/736x/95/04/79/950479a1e09e75647e00b60c40c45ce8.jpg",
+    },
+    {
+        id: 2,
+        name: "washed denim jeans",
+        price: 700.00,
+        imageUrl: "https://i.pinimg.com/736x/09/8d/1a/098d1abb6ebeb43d66f0956152224b7b.jpg",
+    },
+    {   id: 3,  
+        name: "Blue ripped jeans",
+        price: 600.00,
+        imageUrl: "https://i.pinimg.com/1200x/ef/3f/d8/ef3fd84d8cd33b4f72d633b2b638bebf.jpg",
+    },
+    {
+        id: 4,
+        name: "washed skinny jeans",
+        price: 800.00,
+        imageUrl:" https://i.pinimg.com/1200x/a6/d7/98/a6d798f655ad16b9a0ea0e0051043af0.jpg",
+    },
+    {
+        id: 5,
+        name: "Black ripped jeans",
+        price: 700.00,
+        imageUrl: "https://i.pinimg.com/736x/08/50/5d/08505dae80c180385849de5d4c6609fb.jpg",
+    },
+    {
+        id: 6,
+        name: "Classic blue jeans",
+        price: 550.00,
+        imageUrl: "https://i.pinimg.com/736x/9c/6e/f6/9c6ef6ccc31ffcdcd964727bba4c7a09.jpg",
+    },
+    {
+        id: 7,                              
+        name: "Distressed jeans",
+        price: 650.00,
+        imageUrl: "https://i.pinimg.com/736x/81/c5/71/81c5718191a3a851db87d8ae24de3317.jpg",
+    },
+    {
+        id: 8,
+        name: "Slim fit jeans",
+        price: 750.00,
+        imageUrl: "https://i.pinimg.com/736x/45/c0/db/45c0dbe37a6399eb1e15927c3c4be485.jpg",
+    },  {
+        id: 9,
+        name: "Straight leg jeans",
+        price: 500.00,
+        imageUrl: "https://i.pinimg.com/736x/f0/e4/a1/f0e4a1d9b7e2f93b7a318a4d4dd627cb.jpg",
+    },
+    {
+        id: 10,
+        name: "High-waisted jeans",
+        price: 850.00,
+        imageUrl: "https://i.pinimg.com/1200x/e4/bb/0c/e4bb0cbefc0f9124f87619c3175230fa.jpg",
+    },
+]      
