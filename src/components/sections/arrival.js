@@ -1,22 +1,22 @@
 export const newProducts=[
     {
         id:1,
-        name:"Blue Denim rugged Jeans",
-        imgUrl:'https://i.pinimg.com/736x/35/1b/0f/351b0f489e85a821c5ebf5a51836e95e.jpg' //string
+        name:"Drone De Alta Tecnologia Com Câmera PNG ,",
+        imgUrl:'https://i.pinimg.com/736x/15/77/05/15770525f5284e9692c7fd7a6daac6d6.jpg' //string
     },
      {
         id:2,
-        name:"black Jeans",
-        imgUrl:'https://i.pinimg.com/736x/09/8d/1a/098d1abb6ebeb43d66f0956152224b7b.jpg' //string
+        name:"Formula Drone ",
+        imgUrl:'https://i.pinimg.com/1200x/14/c6/42/14c642fd13e58193e4882a8571452d81.jpg' //string
     },
      {
         id:3,
-        name:"jots",
-        imgUrl:'https://i.pinimg.com/1200x/f9/3f/94/f93f940a522304752c1bbad035377e00.jpg' //string
+        name:"ALLXF Light Show Drone",
+        imgUrl:'https://i.pinimg.com/736x/7d/df/b3/7ddfb3ef8f0fa4a1e3e1e99e8ea5b5ed.jpg' //string
     },
        {
         id:5,
-        name:"buggy Jeans 2",
-        imgUrl:'https://i.pinimg.com/736x/30/10/b2/3010b29aa4b1fab732c68dd8f4709399.jpg' //string
+        name:"Agri drone",
+        imgUrl:'https://i.pinimg.com/736x/2f/94/9b/2f949b27339bcc05e44bb08adb0d86bd.jpg' //string
     },
 ];

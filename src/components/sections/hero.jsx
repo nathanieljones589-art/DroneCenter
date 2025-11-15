@@ -12,10 +12,10 @@ export const Hero = () => {
         style={{ backgroundImage: `url(${heroProduct})`, backgroundSize: 'cover', backgroundPosition: 'center' }}
       >
         <h2 className="text-center text-[1rem] sm:text-3xl text-(--text-color)">
-          Reduce,Reuse,Revamp!<br/>
-          Explore our online thrift shop<br/>
-          For unique,eco-friendly fashion finds.<br/>
-          Shop with us and join the sustainable fashion movement
+          Fly High, Capture Dreams!<br/>
+          Explore our premium drone collection<br/>
+          For cutting-edge technology and innovation.<br/>
+          Shop with us and elevate your aerial experience
         </h2>
         <Btn text="shop now" className="relative z-0" />
       </div>
@@ -31,11 +31,11 @@ export const Hero = () => {
         </div>
         <div className="text-center p-4 border-r-2 border-(--text-color)">
           <h5 className="text-2xl md:text-3xl font-bold">1k+</h5>
-          <p className="text-sm md:text-base">trousers sold</p>
+          <p className="text-sm md:text-base">drones sold</p>
         </div>
         <div className="text-center p-4">
           <h5 className="text-2xl md:text-3xl font-bold">260+</h5>
-          <p className="text-sm md:text-base">variant trousers</p>
+          <p className="text-sm md:text-base">drone models</p>
         </div>
       </div>
     </>
