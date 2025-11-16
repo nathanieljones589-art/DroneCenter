@@ -1,10 +1,10 @@
 export const products = [
     {
         id: 1,
-        name: "Vintage Denim Jacket",
+        name: "Black Drone t",
         description: "A classic blue denim jacket from the 80s, perfect for layering.",
         price: 45.00,
-        imageUrl: "https://i.pinimg.com/1200x/82/f9/85/82f985a72f980803128ac6663dd6dd37.jpg",
+        imageUrl: "https://i.pinimg.com/736x/62/3a/94/623a94e8a69493cda4ae147d3ecc7fe4.jpg",
     },
     {
         id: 2,

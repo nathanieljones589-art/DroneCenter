@@ -2,9 +2,9 @@ import React from 'react'
 
 export const Testimonials = () => {
   const testimonials = [
-    { name: 'Aisha Mwangi', role: 'Fashion Designer', quote: 'Great selection and amazing customer service!' },
-    { name: 'James K.', role: 'Buyer', quote: 'Quality products at unbeatable prices.' },
-    { name: 'Lina S.', role: 'Stylist', quote: 'I found unique pieces that my clients love.' },
+    { name: 'Aisha Mwangi', role: 'Military', quote: 'Great selection and amazing customer service!' },
+    { name: 'John Kamau.', role: 'Buyer', quote: 'Quality products at unbeatable prices.' },
+    { name: 'Tony Ali.', role: 'Farmer', quote: 'I found unique pieces that my clients love.' },
   ]
 
   return (
