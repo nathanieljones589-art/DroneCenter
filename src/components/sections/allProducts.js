@@ -12,15 +12,15 @@ export const allProducts = [
         imageUrl: "https://i.pinimg.com/736x/9c/e8/92/9ce89219e0072f9a5e0f08966117ac46.jpg",
     },
     {   id: 3,  
-        name: "Post Drone design study Florian Mack // A.I. driven design",
+        name: "Post Drone design study Florian Mack ",
         price: 600000,
         imageUrl: "https://i.pinimg.com/1200x/b0/b0/54/b0b054ff5d103627d5abc1df6a536fdf.jpg",
     },
     {
         id: 4,
         name: "Police drone",
-        price: 950000,
-        imageUrl:"https://i.pinimg.com/736x/ae/6a/df/ae6adf0c45b1150a3caf4bcbbd51e174.jpg",
+        price: 950000,imageUrl:"https://i.pinimg.com/736x/ae/6a/df/ae6adf0c45b1150a3caf4bcbbd51e174.jpg",
+        
     },
     {
         id: 5,

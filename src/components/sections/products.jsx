@@ -9,7 +9,7 @@ export const Allproducts = () => {
         <p>The products we have in stock.</p>
       </div>
 
-      <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full'>
+      <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full text-center'>
         {allProducts.map( 
           (item)=>{
             return(
