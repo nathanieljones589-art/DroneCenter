@@ -5,7 +5,7 @@ export const Allproducts = () => {
   return (
     <div className='flex flex-col justify-center items-center space-y-6 p-10 bg-(--primary-color) text-(--text-color)'>
       <div className='text-center mb-6'>
-        <h3>All products</h3>
+        <h3 className='font-bold capitalize text-2xl'>All products</h3>
         <p>The products we have in stock.</p>
       </div>
 
