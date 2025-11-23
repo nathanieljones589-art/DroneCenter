@@ -14,13 +14,13 @@ export const Testimonials = () => {
       name: 'John Kamau', 
       role: 'Buyer', 
       quote: 'Quality products at unbeatable prices.',
-      image: 'https://i.pinimg.com/736x/65/ca/3c/65ca3c03a8a81f16feaca61908a940ae.jpg'
+      image: 'https://i.pinimg.com/736x/74/79/f0/7479f03e26e1991ea6b6aacad039c8bf.jpg'
     },
     { 
       name: 'Tony Ali', 
       role: 'Farmer', 
       quote: 'I found unique pieces that my clients love.',
-      image: 'https://i.pinimg.com/736x/74/79/f0/7479f03e26e1991ea6b6aacad039c8bf.jpg'
+      image: 'https://i.pinimg.com/736x/17/d7/27/17d727ac8c4b9f3a52d3c24dc69eae02.jpg'
     },
   ]
 

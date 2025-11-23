@@ -8,7 +8,7 @@ const Footer = () => {
 				<div className="grid grid-cols-1 md:grid-cols-3 gap-8">
 					<div>
 						<h3 className="text-xl font-semibold">Drone</h3>
-						<p className="mt-2 text-gray-400 text-sm">Curated second-hand fashion that feels new.</p>
+						<p className="mt-2 text-gray-400 text-sm"></p>
 						<div className="flex gap-3 mt-4">
 							<a href="#" aria-label="Twitter" className="p-2 rounded-md hover:bg-gray-800">
 								<svg className="w-5 h-5 text-gray-200" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53A4.48 4.48 0 0 0 22.4.36a9.12 9.12 0 0 1-2.88 1.1A4.51 4.51 0 0 0 12.07 5a12.8 12.8 0 0 1-9.29-4.7 4.5 4.5 0 0 0 1.39 6.02A4.41 4.41 0 0 1 1.8 6.6v.06A4.5 4.5 0 0 0 4.5 11a4.52 4.52 0 0 1-2 .07 4.5 4.5 0 0 0 4.2 3.12A9 9 0 0 1 1 18.57 12.8 12.8 0 0 0 7 20c8.29 0 12.84-6.87 12.84-12.84v-.58A9.22 9.22 0 0 0 23 3z"/></svg>
@@ -44,7 +44,7 @@ const Footer = () => {
 				</div>
 
 				<div className="mt-8 border-t border-gray-800 pt-6 text-sm text-gray-500 flex flex-col md:flex-row items-center justify-between gap-4">
-					<p>© {year} Thrift. All rights reserved.</p>
+					<p>© {year}  All rights reserved.</p>
 					<div className="flex gap-4">
 						<a href="#" className="hover:text-white">Privacy</a>
 						<a href="#" className="hover:text-white">Terms</a>
