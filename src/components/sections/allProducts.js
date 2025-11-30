@@ -36,9 +36,9 @@ export const allProducts = [
     },
     {
         id: 7,                              
-        name: "Drone Design",
+        name: "Original SIYI reebot Drone Platform UniDrone E900 4K",
         price: 450000,
-        imageUrl: "https://i.pinimg.com/736x/d0/66/f0/d066f0ab708c8cc8f133408191107d5d.jpg",
+        imageUrl: "https://i.pinimg.com/1200x/82/44/ce/8244ce3443ab0270b0460c752105df20.jpg",
     },
     {
         id: 8,

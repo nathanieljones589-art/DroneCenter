@@ -6,22 +6,31 @@ export const Testimonials = () => {
   const testimonials = [
     { 
       name: 'Aisha Mwangi', 
-      role: 'Military', 
-      quote: 'Great selection and amazing customer service!',
-      image: 'https://i.pinimg.com/736x/a9/21/7f/a9217f43edd88f18a5bdbc480aa4d8e4.jpg'
+      role: 'DCI', 
+      quote: 'The best drone selection and amazing customer service!',
+      image: 'https://i.pinimg.com/736x/ac/0f/83/ac0f8390c9665a5caf9efd9aadef6c68.jpg'
     },
     { 
       name: 'John Kamau', 
-      role: 'Buyer', 
-      quote: 'Quality products at unbeatable prices.',
+      role: 'video grapher', 
+      quote: 'Quality drones at unbeatable prices.',
       image: 'https://i.pinimg.com/736x/74/79/f0/7479f03e26e1991ea6b6aacad039c8bf.jpg'
     },
     { 
       name: 'Tony Ali', 
-      role: 'Farmer', 
-      quote: 'I found unique pieces that my clients love.',
-      image: 'https://i.pinimg.com/736x/17/d7/27/17d727ac8c4b9f3a52d3c24dc69eae02.jpg'
+      role: 'Head Master', 
+      quote: 'I found amazing drones that my clients love.',
+      image: 'https://i.pinimg.com/736x/dc/1b/16/dc1b165f2032d49a7559a0d9df666a4e.jpg'
     },
+    { 
+      name: 'Sara Njeri', 
+      role: 'Photographer', 
+      quote: 'Exceptional variety and top-notch quality!',
+      image: 'https://i.pinimg.com/736x/b9/c4/53/b9c4539c094848a95548a26e1fe6a207.jpg'
+    },
+
+    
+
   ]
 
   const currentTestimonial = testimonials[currentIndex]

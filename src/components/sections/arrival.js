@@ -6,8 +6,8 @@ export const newProducts=[
     },
      {
         id:2,
-        name:"Formula Drone ",
-        imgUrl:'https://i.pinimg.com/1200x/14/c6/42/14c642fd13e58193e4882a8571452d81.jpg' //string
+        name:"Police  Drone",
+        imgUrl:'https://i.pinimg.com/736x/07/ba/74/07ba74f7e8379f28f9fd2bdad02dc6db.jpg' //string
     },
      {
         id:3,
